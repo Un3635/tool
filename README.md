@@ -16,3 +16,7 @@
     
     // https://cdn.bootcss.com/qrcode-generator/1.4.1/qrcode.js 会受url长度的限制
 ```
+3.  moment-with-locales.js 事例
+```
+        $('<div>').html(moment(data[i].receiveTime).format("YYYY.MM.DD HH:mm"))
+```
