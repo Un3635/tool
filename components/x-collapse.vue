@@ -101,6 +101,7 @@ export default {
     letter-spacing: 0;
     line-height: 24px;
     margin-bottom: 16px;
+    word-break: break-all;
   }
   // flex: 0 0 100px;
 }
